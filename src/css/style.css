@@ -2,7 +2,7 @@
 	min-width:960px;
 	font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
 	font-size:14px;
-	background:#79442a url(imagens/fundo.png) repeat-x;
+	background:#79442a url(../images/fundo.png) repeat-x;
 	color:#36352e;
 	margin:0px;
 }
@@ -14,14 +14,14 @@
 	border-right:2px groove #b19e90;
 }
 #logo {
-	background:#744529 url(imagens/topo.jpg) no-repeat;
+	background:#744529 url(../images/topo.jpg) no-repeat;
 	width:900px;
 	height:250px;
 }
 #menu {
 	width:900px;
 	height:35px;
-	background:#744529 url(imagens/menu.jpg);
+	background:#744529 url(../images/menu.jpg);
 	color:#ffffff;
 	line-height:35px;
 }
@@ -43,7 +43,7 @@
 	font-size:14px;
 }
 #menu li a:hover {
-	background:#744529 url(imagens/menuhover.jpg);
+	background:#744529 url(../images/menuhover.jpg);
 }
 #menu li a:visited {
 	height:35px;
@@ -133,7 +133,7 @@
 	width:600px;
 	height:320px;
 	padding:10px;
-	background:#ffffff url(imagens/oferta.jpg);
+	background:#ffffff url(../images/oferta.jpg);
 	border:1px groove #b19e90;
 	float:right;
 }
@@ -141,7 +141,7 @@
 	width:220px;
 	height:60px;
 	padding:10px;
-	background-image:url(imagens/fundoferta.png);
+	background-image:url(../images/fundoferta.png);
 	border:1px groove #ffffff;
 	float:right;
 	margin-top:230px;
